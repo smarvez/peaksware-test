@@ -1,0 +1,23 @@
+{
+  "name": "peaksware-test",
+  "version": "1.0.0",
+  "description": "Please build a single page application to visualize the workout data provided in `workout-data.json`, including a map, a graph, and an algorithm to analyze average power output.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smarvez/peaksware-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smarvez/peaksware-test/issues"
+  },
+  "homepage": "https://github.com/smarvez/peaksware-test#readme",
+  "dependencies": {
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2"
+  }
+}
